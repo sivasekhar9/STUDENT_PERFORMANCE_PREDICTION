@@ -10,8 +10,7 @@ from src.components.data_transformation import DataTransformationConfig
 from src.components.model_trainer import ModelTrainerConfig
 from src.components.model_trainer import ModelTrainer
    
-# class variables will be created
-# in my data ingestion component any input that is required i will give with this class
+ 
 
 @dataclass
 class DataIngestionConfing:
